@@ -23,7 +23,7 @@ function About() {
           <div className="intro-text">
             
             <p>
-            We believe in supporting the start-up ecosystem at every step. <br />
+            We Believe in supporting the start-up ecosystem at every step. <br />
             Our mission is to guide new-age start-ups by helping them build cutting-edge technology, and by assisting them 
             in marketing and positioning themselves as distinguished brands in the eyes of their customers. 
             Unlike others, we also provide access to our extensive network, enabling them to secure funding and grow.  <br />
