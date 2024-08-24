@@ -367,7 +367,7 @@
   
   
   
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .content .content_heading {
       width: 30%;
       margin-left: 7rem;
@@ -393,19 +393,5 @@
   
     .step-content {
       padding: 45px 90px;
-    }
-  }
-  
-  @media (max-width: 992px) {
-    .partners-section h2 {
-      font-size: 40px;
-    }
-  
-    .partners-logos img {
-      width: 200px;
-    }
-  
-    .last_section h2 {
-      font-size: 40px;
     }
   }
