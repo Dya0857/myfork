@@ -412,7 +412,7 @@
 
   @media screen and (max-width: 600px) {
     .hero-placeholder .hero-text h1{
-      font-size: 35px;
+      font-size: 35rem;
       font-family: auto;
       position: absolute;
       font-weight: 250;
