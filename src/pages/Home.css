@@ -412,8 +412,8 @@
 
   @media screen and (max-width: 600px) {
     .hero-section {
-      text-align: center;
-      padding: 10px 15px;
+      text-align: top;
+      padding: 0px 0px;
     }
 
     .hero-placeholder .hero-text h1{
