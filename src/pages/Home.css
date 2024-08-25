@@ -367,7 +367,7 @@
   
   
   
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     .content .content_heading {
       width: 30%;
       margin-left: 7rem;
@@ -393,5 +393,31 @@
   
     .step-content {
       padding: 45px 90px;
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .partners-section h2 {
+      font-size: 40px;
+    }
+  
+    .partners-logos img {
+      width: 200px;
+    }
+  
+    .last_section h2 {
+      font-size: 40px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .hero-placeholder .hero-text h1{
+      font-size: 30px;
+      font-family: auto;
+      position: absolute;
+      font-weight: 250;
+      left: 0rem;
+      top: 1.3rem;
+      letter-spacing: 0.5rem;
     }
   }
