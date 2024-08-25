@@ -412,24 +412,23 @@
 
   @media screen and (max-width: 600px) {
     .hero-section {
-      text-align: center;
+      text-align: left;
       padding: 10px 15px;
     }
 
     .hero-placeholder .hero-text h1{
-      font-size: 38px;
-      font-family: auto;
+      font-size: 30px;
       position: relative;
-      font-weight: 250;
+      font-weight: 200;
       left: 0rem;
       top: 0px;
-      letter-spacing: 0.5rem;
+      letter-spacing: 0.25rem;
     }
 
     .hero-placeholder .hero-text p{
       margin-top: 10px;
-      font-size: 15px;
-      font-weight: 550;
+      font-size: 12px;
+      font-weight: 500;
       padding: 3px 2px;
       text-align: justify;
     }
@@ -437,6 +436,6 @@
     .hero-placeholder .btn{
       margin-top: 2.5rem;
       /* margin-left: 22%; */
-      font-size: 0.5rem;
+      font-size: 0.9rem;
     }
   }
