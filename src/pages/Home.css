@@ -412,23 +412,23 @@
 
   @media screen and (max-width: 600px) {
     .hero-section {
-      text-align: left;
+      text-align: center;
       padding: 10px 15px;
     }
 
     .hero-placeholder .hero-text h1{
       font-size: 30px;
       position: relative;
-      font-weight: 200;
+      font-weight: 250;
       left: 0rem;
       top: 0px;
-      letter-spacing: 0.25rem;
+      letter-spacing: 0.5rem;
     }
 
     .hero-placeholder .hero-text p{
       margin-top: 10px;
-      font-size: 12px;
-      font-weight: 500;
+      font-size: 15px;
+      font-weight: 550;
       padding: 3px 2px;
       text-align: justify;
     }
