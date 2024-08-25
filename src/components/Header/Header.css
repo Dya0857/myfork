@@ -83,3 +83,37 @@ nav{
       padding: 0.5rem 1rem;
     }
   }
+
+  @media (max-width: 600px) {
+    .nav-menu {
+      display: none;
+    }
+  
+    .nav-toggle-button {
+      display: block;
+    }
+  
+    .nav-menu.active {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 6rem;
+      right: 0;
+      background: black;
+      width: 100%;
+      text-align: right;
+      padding: 1rem;
+    }
+  
+    .nav-menu.active li a {
+      color: white;
+      padding: 0.5rem 1rem;
+    }
+
+    .nav-container{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 75%;
+  }
+  }
