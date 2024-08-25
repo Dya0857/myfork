@@ -414,10 +414,10 @@
     .hero-placeholder .hero-text h1{
       font-size: 38px;
       font-family: auto;
-      position: absolute;
+      position: relative;
       font-weight: 250;
       left: 0rem;
-      top: 1.3rem;
+      top: 1.0rem;
       letter-spacing: 0.5rem;
     }
   }
