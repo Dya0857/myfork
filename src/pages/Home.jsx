@@ -21,7 +21,7 @@ function Home() {
         <div className='hero-text'>
           <h1>Vital Vistara</h1>
           <p>We help Start-ups in everything from building their <strong>Technology </strong> to help them in 
-           <strong> Marketing </strong> their product to help them raise <strong>Funding </strong>  to scale their start-up</p>
+           <strong> Marketing </strong> their product to help them raise <strong>Funding </strong>  to scale their start-up.</p>
              <button className='btn'><Link to="/contact">Schedule Call </Link></button>
 
         </div>
